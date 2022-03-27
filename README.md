@@ -7,6 +7,7 @@ This project is about the use of Neural Network and creating Deep Learning Model
 •	optimize the model.
 ## Resources
 •	Data Source: charity_data.csv containing 34,000 organizations as recipients of funding by Alphabet Soup 
+
 •	Applications: TensorFlow platform in Python, Mlenv Jupiter Notebook 
 ## Results
 ### Data Preprocessing
@@ -21,5 +22,5 @@ We applied the activation function Relu to speed up the training process and *si
 •	We tried to improve the performance of the model thru *bucketing* 
 ## Summary:
 
-Though we reached the outcome of 72.6%, it was below the goal of reaching the model accuracy of 75%. We should try to increase the data or get the right feature combination and run the test again. Also, we can use other supervised machine learning model such as Random Forest Classifier with a combination of decision trees and further evaluate against the output of our deep learning model 
+Though we reached an outcome of 72.6%, it was below the goal of reaching the model accuracy of 75%. We should try to increase the data or get the right feature combination and run more attempts tests. Also, we can use other supervised machine learning model such as Random Forest Classifier with a combination of decision trees and further evaluate against the output of our deep learning model 
 
