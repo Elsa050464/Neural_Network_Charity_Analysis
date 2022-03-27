@@ -6,7 +6,7 @@ This project is about the use of Neural Network and creating Deep Learning Model
 * Design, train evaluate and export neural networks 
 * Optimize the model.
 ## Resources
-•	Data Source: [Charity Data] https://github.com/Elsa050464/Neural_Network_Charity_Analysis/blob/main/Resources/charity_data.csvcharity_data.csv containing 34,000 organizations as recipients of funding by Alphabet Soup 
+•	Data Source: [Charity Data](https://github.com/Elsa050464/Neural_Network_Charity_Analysis/blob/main/Resources/charity_data.csvcharity_data.csv) containing 34,000 organizations as recipients of funding by Alphabet Soup 
 * Applications: TensorFlow platform in Python, Mlenv Jupiter Notebook 
 ## Results
 ### Data Preprocessing
